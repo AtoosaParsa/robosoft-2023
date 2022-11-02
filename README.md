@@ -1,2 +1,3 @@
-# robosoft-2023
-Shape Shifting Sheets via Variable Tensile Stiffness Fibers
+# Evolving Shape Shifting Sheets with Variable Tensile Stiffness Fibers
+robosoft-2023
+
