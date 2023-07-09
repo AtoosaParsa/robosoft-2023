@@ -12,7 +12,7 @@ This repository contains the source code for all the experiments in the paper
 
 </br>
 
-Watch an annotated video summary [here]. (https://youtu.be/Xri094zm8Ec)
+Watch an annotated video summary [here](https://youtu.be/Xri094zm8Ec)
 
 
 Bibtex
