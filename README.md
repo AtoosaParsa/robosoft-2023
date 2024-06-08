@@ -1,20 +1,17 @@
-# Evolving Shape Shifting Sheets with Variable Tensile Stiffness Fibers
+# Evolving Variable Stiffness Fiber Patterns for Multi-shape Robotic Sheets
 
-This repository contains the source code for all the experiments in the paper
-
+This repository contains the source code for all the experiments in the paper:
 [Parsa, A., Goyal, M., Lambo, M., Yang, B., Bongard, J., & Kramer-Bottiglio, R. (2023, April). Evolving variable stiffness fiber patterns for multi-shape robotic sheets. In 2023 IEEE International Conference on Soft Robotics (RoboSoft) (pp. 1-7). IEEE.](https://ieeexplore.ieee.org/abstract/document/10121924)
 
 </br>
-
 <p align="center">
   <img src="https://github.com/AtoosaParsa/robosoft-2023/blob/main/overview.png">
 </p>
-
 </br>
 
-Watch an annotated video summary [here](https://youtu.be/Xri094zm8Ec).
+- Watch an annotated video summary [here](https://youtu.be/Xri094zm8Ec).
 
-![](https://github.com/AtoosaParsa/GCTorch/blob/main/XOR_plot.gif)
+![](https://github.com/AtoosaParsa/robosoft-2023/blob/main/sphere-saddle.gif)
 
 
 
